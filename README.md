@@ -4,7 +4,7 @@ A telegram bot that can force members in your group to join your channel by mute
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jenul942/Force-sub)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/jenul942/Covid-19botjenul123app.jason/)
 
 > You must add the bot as admin to your channel and group with ban member permission
 
