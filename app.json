@@ -1,15 +1,15 @@
 {
-    "name": "ForceSub Bot",
+    "name": "Covid-19 Bot",
     "description": "A telegram force subscribe bot for promote channels.",
-    "logo": "https://telegra.ph/file/9e67953e752811aaeeb45.jpg",
+    "logo": "https://telegra.ph/file/f872b3c71433f621a2d6f.jpg",
     "keywords": [
-        "ForceSub",
+        "Covid-19 Bot",
         "Promoter",
         "Telegram Bot",
         "HS Bots"
     ],
     "website": "https://helpsinhalen.tk",
-    "repository": "https://github.com/jenul942/Force-sub",
+    "repository": "https://github.com/jenul942/Covid-19botjenul123app.jason/",
     "success_url": "https://t.me/helpsinhalen",
     "env": {
         "TG_BOT_TOKEN": {
@@ -23,19 +23,6 @@
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
             "value": ""
-        },
-        "CHANNEL_USERNAME": {
-            "description": "Your channel username that you want to force subscribe",
-            "value": ""
-        },
-        "WARN_MESSAGE": {
-            "description": "The warn message you want to send after muted a member",
-            "value": ""
-        },
-        "START_MESSAGE": {
-            "description": "The message you want to send on bot's pm when do /start",
-            "value": ""
-        }
     },
     "addons": [],
     "buildpacks": [
