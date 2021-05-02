@@ -1,7 +1,0 @@
-pytelegrambotapi
-gtts
-praw
-requests
-bs4
-BeautifulSoup4
-os
