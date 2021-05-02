@@ -4,16 +4,16 @@
     "logo": "https://telegra.ph/file/f872b3c71433f621a2d6f.jpg",
     "keywords": [
         "Covid-19 Bot",
-        "Bots",
+        "Covid-19 Updates",
         "Telegram Bot",
         "HS Bots"
     ],
-    "website": "https://helpsinhalen.tk",
+    "website": "https://HelpSinhalen.tk",
     "repository": "https://github.com/jenul942/Covid-19botjenul123app.jason",
     "success_url": "https://t.me/helpsinhalen",
     "env": {
         "TG_BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "Your Telegram Bot Token from @BotFather",
             "value": ""
         },
         "API_HASH": {
@@ -23,6 +23,7 @@
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
             "value": ""
+        }
     },
     "addons": [],
     "buildpacks": [
