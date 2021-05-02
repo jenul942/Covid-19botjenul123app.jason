@@ -1,0 +1,8 @@
+pytelegrambotapi
+gtts
+praw
+requests
+bs4
+BeautifulSoup4
+TgCrypto
+pyrogram==1.0.1
