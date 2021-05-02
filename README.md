@@ -1,12 +1,9 @@
-# ForceSub Bot
+# covid-19 Bot
 
-A telegram bot that can force members in your group to join your channel by mute them and warns to join your channel
-
+A telegram bot that can give covid-19 updates
 ### Deploy to Heroku 🏃‍♂
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/jenul942/Covid-19botjenul123app.jason/)
-
-> You must add the bot as admin to your channel and group with ban member permission
 
 ### Credits:
 
