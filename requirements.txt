@@ -1,2 +1,7 @@
-TgCrypto
-pyrogram==1.0.1
+pytelegrambotapi
+gtts
+praw
+requests
+bs4
+BeautifulSoup4
+os
